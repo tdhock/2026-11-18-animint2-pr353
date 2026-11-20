@@ -1,0 +1,19 @@
+colour	fill	y	x	key	clickSelects	showSelected1	showSelected2	PANEL
+#377EB8	#FFFFFF	1	6	1 6	Slow-Fast	1	between	1
+#377EB8	#00FF00	1	2	1 2	Slow-Fast	125	between	1
+#377EB8	#000000	1	3	1 3	Slow-Fast	0	between	1
+#377EB8	#FFFFFF	1	4	1 4	Slow-Fast	1	between	1
+#377EB8	#FFFFFF	1	5	1 5	Slow-Fast	1	between	1
+#377EB8	#000000	2	8	2 8	Fast-CIfixed	0	between	1
+#377EB8	#FFFFFF	2	10	2 10	Fast-CIfixed	1	between	1
+#377EB8	#FFFFFF	2	17	2 17	Fast-CIfixed	1	between	1
+#377EB8	#FFFFFF	2	14	2 14	Fast-CIfixed	1	between	1
+#377EB8	#000000	2	11	2 11	Fast-CIfixed	0	between	1
+#377EB8	#FFFFFF	2	12	2 12	Fast-CIfixed	1	between	1
+#377EB8	#FFFFFF	2	9	2 9	Fast-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	18	3 18	FixLegend-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	15	3 15	FixLegend-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	10	3 10	FixLegend-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	13	3 13	FixLegend-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	16	3 16	FixLegend-CIfixed	1	between	1
+#377EB8	#FFFFFF	3	9	3 9	FixLegend-CIfixed	1	between	1

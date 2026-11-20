@@ -1,0 +1,7 @@
+colour	y	x	key	clickSelects	showSelected1	PANEL	fill
+#FF7F00	1	1	Slow-Fast old	Slow-Fast	old	1	#FF7F00
+#FF7F00	2	7	Fast-CIfixed old	Fast-CIfixed	old	1	#FF7F00
+#FF7F00	3	11	FixLegend-CIfixed old	FixLegend-CIfixed	old	1	#FF7F00
+#E41A1C	1	7	Slow-Fast new	Slow-Fast	new	1	#E41A1C
+#E41A1C	2	19	Fast-CIfixed new	Fast-CIfixed	new	1	#E41A1C
+#E41A1C	3	19	FixLegend-CIfixed new	FixLegend-CIfixed	new	1	#E41A1C
