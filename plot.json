@@ -1025,7 +1025,7 @@
 "total": 1,
 "chunk_info": {
  "geom21_tallrect_zoom_chunk1.tsv": {
- "bytes":      460,
+ "bytes":      465,
 "rows": 18 
 } 
 } 
@@ -1076,7 +1076,7 @@
 "total": 1,
 "chunk_info": {
  "geom22_segment_zoom_chunk1.tsv": {
- "bytes":     2574,
+ "bytes":     2596,
 "rows": 34 
 } 
 } 
@@ -1222,7 +1222,7 @@
 "total": 1,
 "chunk_info": {
  "geom25_tallrect_zoom_chunk1.tsv": {
- "bytes":     1211,
+ "bytes":     1216,
 "rows": 18 
 } 
 } 
@@ -1966,8 +1966,7 @@
 "loc": {
  "x": [
  [
-       -1,
-       0,
+        0,
        1,
        2,
        3,
@@ -1976,8 +1975,7 @@
        6,
        7,
        8,
-       9,
-      10 
+       9 
 ] 
 ],
 "y": [
@@ -2010,7 +2008,7 @@
 "7",
 "9" 
 ],
-"xrange": [    -1.55,    10.55 ],
+"xrange": [    -0.45,     9.45 ],
 "xline": false,
 "xticks": true,
 "y": [
